@@ -1,0 +1,47 @@
+/* General page styling */
+body {
+    background-color: #eef2ff;
+    font-family: Arial, sans-serif;
+}
+
+/* Login form card */
+.login-card {
+    border: none;
+    border-radius: 15px;
+}
+
+/* Main heading */
+h2 {
+    color: #26346b;
+    font-weight: bold;
+}
+
+/* Input fields */
+.form-control {
+    padding: 12px;
+    border-radius: 8px;
+}
+
+/* Login button */
+.btn-primary {
+    background-color: #4056a1;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    background-color: #2f417f;
+}
+
+/* Links */
+.forgot-link,
+.signup-link {
+    color: #4056a1;
+    text-decoration: none;
+}
+
+.forgot-link:hover,
+.signup-link:hover {
+    text-decoration: underline;
+}
